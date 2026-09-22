@@ -1,0 +1,8 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:gravity="center">
+        <bitmap
+            android:src="@drawable/tiger_icon"
+            android:antialias="true" />
+    </item>
+</layer-list>
+
